@@ -34,7 +34,7 @@ Agora é só calcular!
 ![calc](https://user-images.githubusercontent.com/37241913/73599574-b8833580-4523-11ea-96b4-4195fa5a2117.png)
 
 ## Versão
-Consulte as [tags neste repositório](https://github.com/andre-aps/Restaurante/tree/v1.0).
+Consulte as [tags neste repositório](https://github.com/andre-aps/Calculadora/tree/v1.0).
 
 ## Autor
 <b> André Pereira da Silva </b> | [LinkedIn](https://www.linkedin.com/in/andre-aps)
