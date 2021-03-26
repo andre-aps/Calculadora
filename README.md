@@ -1,4 +1,7 @@
 # Projeto Calculadora
+![GitHub top language](https://img.shields.io/github/languages/top/andre-aps/calculadora)
+![GitHub repo size](https://img.shields.io/github/repo-size/andre-aps/calculadora)
+![GitHub last commit](https://img.shields.io/github/last-commit/andre-aps/calculadora)
 
 O projeto Calculadora foi desenvolvido utilizando a linguagem de programação C# e permite realizar as operações básicas da matemática.
 
